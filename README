@@ -1,0 +1,9 @@
+To compile and run the program, simply go into the src directory,
+and type 'javac *.java' in either a unix shell or windows powershell.
+
+To run the program simply type java Main.
+
+
+-------------------------------------------------------------------
+This project was an academic project for my Software Engineering
+course and is merely a proof of concept with no practical purpose.
